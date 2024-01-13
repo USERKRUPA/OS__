@@ -1,0 +1,2 @@
+FROM krupathumar/nginx-custom-image
+COPY index.html /usr/share/nginx/html/
